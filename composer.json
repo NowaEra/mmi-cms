@@ -1,5 +1,5 @@
 {
-    "name": "mmi/mmi-cms",
+    "name": "nowaera/mmi-cms",
     "description": "The CMS written with MMi Framework",
     "keywords": [
         "cms",
@@ -27,7 +27,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "mmi/mmi": "^3.9.1",
+        "nowaera/mmi-mmi": "dev-master@dev",
         "phpmailer/phpmailer": "~5.2"
     },
     "autoload": {
@@ -40,7 +40,7 @@
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
-            "dev-master": "2.7-dev"
+            "dev-master": "1.0-dev"
         }
     }
 }
